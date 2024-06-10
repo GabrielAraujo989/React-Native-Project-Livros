@@ -1,0 +1,1 @@
+rodar o sistema  - npx react-native run-android
